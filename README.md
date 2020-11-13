@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an Electrical Engineering Student at University of São Paulo. I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new!
+
+📫 How to reach me: 
+- @lfvperes is my handle on every platform.
+
+⚡ Fun fact: 
+- I draw **pixel art**!
