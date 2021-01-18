@@ -5,29 +5,42 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/lfvperes)
 [![](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)](mailto:luisfvperes@gmail.com)
 
-I'm an Electrical Engineering Student at University of São Paulo. I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new and trying to improve my skills!
+I'm an Electrical Engineering Student at [University of São Paulo](https://www5.usp.br/#english). I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new and trying to improve my skills!
 My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 
 ⚡ Fun facts: 
 - I draw **pixel art**!
 - I love puzzles, mistery and investigation stories
 
-### 👩‍💻 **Skills:**
+### 👩‍💻 **Skills and tools:**
 #### Web Development:
 ![](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/react-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/adobe%20xd%20-%23FF61F6.svg?&style=for-the-badge&logo=adobe-xd&logoColor=%23323330)
+![](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/react.js-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/adobe%20xd-%23323330.svg?&style=for-the-badge&logo=adobe-xd&logoColor=%23FF61F6)
+![](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
 #### Software Engineering:
 ![](https://img.shields.io/badge/python-%23306998.svg?&style=for-the-badge&logo=python&logoColor=%23FFE873)
 ![](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Others:
 ![](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/vs%20code-%23323330.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
 ![](https://img.shields.io/badge/tensorflow-%23425066.svg?&style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
+
+<!---
+![](https://img.shields.io/badge/adobe%20photoshop-%23323330.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=%2331A8FF)
+![](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=%23FF9A00)
+![](https://img.shields.io/badge/adobe%20indesign-%23323330.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=%23FF3366)
+![](https://img.shields.io/badge/ms%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/ms%20word-%232B579A.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white)
+![](https://img.shields.io/badge/ms%20powerpoint-%23B7472A.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![](https://img.shields.io/badge/matlab-%230076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=%23C05708)
+![](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white)
+--->
