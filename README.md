@@ -1,14 +1,18 @@
 ## Hi there 👋 I am Luís
 
-![https://linkedin.com/in/lfvperes](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)
-![https://twitter.com/lfvperes](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)
-![https://instagram.com/lfvperes](https://img.shields.io/badge/instagram-%23E4405F.svg?&logo=instagram&logoColor=white)
-![mailto:luisfvperes@gmail.com](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/lfvperes)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/lfvperes)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/lfvperes)
+[![](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)](mailto:luisfvperes@gmail.com)
 
 I'm an Electrical Engineering Student at University of São Paulo. I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new and trying to improve my skills!
 My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 
-### **Skills:**
+⚡ Fun facts: 
+- I draw **pixel art**!
+- I love puzzles, mistery and investigation stories
+
+### 👩‍💻 **Skills:**
 #### Web Development:
 ![](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -26,8 +30,4 @@ My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 
 #### Others:
 ![](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
-⚡ Fun fact: 
-- I draw **pixel art**!
+![](https://img.shields.io/badge/tensorflow-%23425066.svg?&style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
