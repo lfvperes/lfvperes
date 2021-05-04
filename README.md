@@ -40,6 +40,7 @@ My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 ![](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
+
 </div>
 
 #### Others:
