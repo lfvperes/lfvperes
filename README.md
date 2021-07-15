@@ -1,4 +1,4 @@
-## Hi there 👋 I am Luís
+### Hi there 👋 I am Luís
 
 <div align="right">
 
@@ -9,6 +9,7 @@
 
 </div>
 
+#### _Imagination is more important than knowledge._
 I'm an Electrical Engineering Student at [University of São Paulo](https://www5.usp.br/#english). I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new and trying to improve my skills!
 My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 
