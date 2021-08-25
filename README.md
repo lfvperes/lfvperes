@@ -1,4 +1,4 @@
-## Hi there 👋 I am Luís
+### Hi there 👋 I am Luís
 
 <div align="right">
 
@@ -9,6 +9,7 @@
 
 </div>
 
+#### _"Imagination is more important than knowledge."_
 I'm an Electronics Engineering Student at the [São Carlos School of Engineering](https://eesc.usp.br/en/), [University of São Paulo](https://www5.usp.br/#english) (EESC-USP). 
 
 My main interests are Web Development, Software Engineering, Hardware Engineering, Machine Learning and Quantum Computing. Always learning something new and trying to improve my skills!
@@ -40,6 +41,7 @@ My main interests are Web Development, Software Engineering, Hardware Engineerin
 ![](https://img.shields.io/badge/python-%231C3B56.svg?&style=for-the-badge&logo=python&logoColor=%23FFD343)
 ![](https://img.shields.io/badge/C/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 </div>
 
