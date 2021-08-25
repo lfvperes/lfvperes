@@ -9,8 +9,9 @@
 
 </div>
 
-I'm an Electrical Engineering Student at [University of São Paulo](https://www5.usp.br/#english). I'm currently studying topics in Web Development, Software Engineering and Hardware Engineering. Always learning something new and trying to improve my skills!
-My goal is to be a Full Stack Web Dev, focusing on Front End Development.
+I'm an Electronics Engineering Student at the [São Carlos School of Engineering](https://eesc.usp.br/en/), [University of São Paulo](https://www5.usp.br/#english) (EESC-USP). 
+
+My main interests are Web Development, Software Engineering, Hardware Engineering, Machine Learning and Quantum Computing. Always learning something new and trying to improve my skills!
 
 ⚡ Fun facts: 
 - I draw **pixel art**!
@@ -37,7 +38,7 @@ My goal is to be a Full Stack Web Dev, focusing on Front End Development.
 <div align="center">
 
 ![](https://img.shields.io/badge/python-%231C3B56.svg?&style=for-the-badge&logo=python&logoColor=%23FFD343)
-![](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
