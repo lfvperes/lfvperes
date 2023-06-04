@@ -2,18 +2,19 @@
 
 <div align="right">
 
+[![](https://img.shields.io/badge/resume-%23777.svg?&logo=googlesheets&logoColor=white)](https://github.com/lfvperes/lfvperes/blob/main/Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/lfvperes)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/lfvperes)
 [![](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)](mailto:luisfvperes@gmail.com)
-<!--- [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/lfvperes) --->
 
 </div>
 
 #### _"Imagination is more important than knowledge."_
-I'm an Electronics Engineering Student at the [São Carlos School of Engineering](https://eesc.usp.br/en/), [University of São Paulo](https://www5.usp.br/#english) (EESC-USP).  
-I'm also an intern at SiDi in Software Development for Machine Learning and Speech Processing, where I mostly use Python and study about AI.
+I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), through the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC-USP) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC-USP).  
+I'm also an intern at SiDi in Software Development for Speech Processing, working with Samsung Korea. There I learned even more about Machine Learning and Embedded Systems, using Python and C, respectively.
 
-My main interests are Web Development, Software Engineering, Hardware Engineering, Machine Learning and Quantum Computing. Always learning something new and trying to improve my skills! Currently learning Java, practicing C++, and studying about Data Structures & Algorithms to deepen my base knowledge.
+My main professional interests are Web Development, Software Engineering, Hardware Engineering, Machine Learning, Quantum Computing, Data Science, and Open Source. 
+
+I'm always learning something new and trying to improve my skills! Currently learning Java, practicing C++, and studying about Data Structures & Algorithms to deepen my base knowledge.
 
 ⚡ Fun facts: 
 - I draw **pixel art**!
@@ -29,7 +30,7 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 
 ![](https://img.shields.io/badge/python-%231C3B56.svg?&style=for-the-badge&logo=python&logoColor=%23FFD343)
 ![](https://img.shields.io/badge/C/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+<!-- ![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) -->
 
 
 </div>
@@ -53,6 +54,7 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 #### Others:
 <div align="center">
 
+![](https://img.shields.io/badge/fedora-%233c6eb4.svg?&style=for-the-badge&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/vs%20code-%232C2C32.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
 ![](https://img.shields.io/badge/tensorflow-%23425066.svg?&style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
@@ -67,5 +69,5 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 
 ![](https://img.shields.io/badge/matlab-%230076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=%23C05708)
 ![](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white)
---->
+- -->
 </div>
