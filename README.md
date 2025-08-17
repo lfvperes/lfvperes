@@ -41,6 +41,7 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 ![](https://img.shields.io/badge/css-%230c2336.svg?&style=for-the-badge&logo=css&logoColor=%231572B6)
 ![](https://img.shields.io/badge/javascript-%23292610.svg?&style=for-the-badge&logo=javascript&logoColor=%23FCDC00)
 ![](https://img.shields.io/badge/typescript-%23152a42.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+
 ![](https://img.shields.io/badge/node.js-%23202d1d.svg?&style=for-the-badge&logo=node.js&logoColor=%238CC84B)
 ![](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/bootstrap-%2320152e.svg?style=for-the-badge&logo=bootstrap&logoColor=%237952B3)
@@ -48,13 +49,13 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 ![](https://img.shields.io/badge/vite-%23282a5e.svg?&style=for-the-badge&logo=vite&logoColor=%23FFD53D)
 ![](https://img.shields.io/badge/jest-%23290408.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325)
 ![](https://img.shields.io/badge/tailwindcss-%23045d6a.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
-![](https://img.shields.io/badge/vscodium-%231a3f66.svg?&style=for-the-badge&logo=vscodium&logoColor=%23007ACC)
 ![](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883)
 
 </div>
 
 <div align="center">
 
+![](https://img.shields.io/badge/vscodium-%231a3f66.svg?&style=for-the-badge&logo=vscodium&logoColor=%23007ACC)
 ![](https://img.shields.io/badge/fedora-%23172232.svg?&style=for-the-badge&logo=fedora&logoColor=%2355A4E4)
 ![](https://img.shields.io/badge/git-%2330110c.svg?&style=for-the-badge&logo=git&logoColor=%23F05032)
 ![](https://img.shields.io/badge/tensorflow-%23425066.svg?&style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
