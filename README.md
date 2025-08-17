@@ -1,23 +1,27 @@
-### Hi there 👋 I am Luís
+## Hi there 👋 I am Luís
 
 <div align="right">
 
-[![](https://img.shields.io/badge/resume-%23777.svg?&logo=googlesheets&logoColor=white)](https://github.com/lfvperes/lfvperes/blob/main/Resume.pdf)
+[![](https://img.shields.io/badge/portfolio-%23777.svg?&logo=googlesheets&logoColor=white)](https://lfvperes.github.io)
+[![](https://img.shields.io/badge/resume-%23777.svg?&logo=googlesheets&logoColor=white)](https://rxresu.me/lfvperes/webdev-jr)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/lfvperes)
 [![](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)](mailto:luisfvperes@gmail.com)
 
 </div>
 
-#### _"Imagination is more important than knowledge."_
-I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), through the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC-USP) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC-USP).  
+> _"Imagination is more important than knowledge."_
 
-I was an intern at SiDi/Samsung in Software Development for Speech Processing, working with Samsung Korea. There, I learned even more about Machine Learning and Embedded Systems, using Python and C, respectively.
+I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), through the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC).  
+
+I aim to be a Full-Stack Web Developer, and I'm coming from a background of Front-End.
+
+I was an intern at SiDi/Samsung in Software Development for Speech Processing, working with Samsung Korea. I learned more about Machine Learning and Embedded Systems, using Python and C, respectively.
 
 My main professional interests are Web Development and Software Engineering in general. In Academia I'm also interested in Hardware Engineering, Machine Learning, Quantum Computing, and Open Source. 
 
 ⚡ Fun facts: 
 - I draw **pixel art**!
-- I love puzzles, mistery and investigation stories
+- I love puzzles, mystery and investigation stories
 - I built a few Twitter bots for fun and learned a lot in the process
 
 Eager to share knowledge, talk about tech, help others, and improve the World through Science 🌎
@@ -26,32 +30,33 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 
 <div align="center">
 
-![](https://img.shields.io/badge/python-%231C3B56.svg?&style=for-the-badge&logo=python&logoColor=%23FFD343)
-![](https://img.shields.io/badge/C/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![](https://img.shields.io/badge/c%20%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) -->
-
+![](https://img.shields.io/badge/python-%231A3554.svg?&style=for-the-badge&logo=python&logoColor=%23FFD343)
+![](https://img.shields.io/badge/C/C++-%230c1d2c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=%2333A1F2)
 
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/html-%232e130c.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![](https://img.shields.io/badge/css-%230c2336.svg?&style=for-the-badge&logo=css&logoColor=%231572B6)
 ![](https://img.shields.io/badge/javascript-%23292610.svg?&style=for-the-badge&logo=javascript&logoColor=%23FCDC00)
-
-![](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/react.js-%23282C34.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
-<!-- ![](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883) -->
-<!-- ![](https://img.shields.io/badge/adobe%20xd-%23470137.svg?&style=for-the-badge&logo=adobe-xd&logoColor=%23FF61F6) -->
+![](https://img.shields.io/badge/typescript-%23152a42.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![](https://img.shields.io/badge/node.js-%23202d1d.svg?&style=for-the-badge&logo=node.js&logoColor=%238CC84B)
+![](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/bootstrap-%2320152e.svg?style=for-the-badge&logo=bootstrap&logoColor=%237952B3)
+![](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=%2379D0B1)
+![](https://img.shields.io/badge/vite-%23282a5e.svg?&style=for-the-badge&logo=vite&logoColor=%23FFD53D)
+![](https://img.shields.io/badge/jest-%23290408.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325)
+![](https://img.shields.io/badge/tailwindcss-%23045d6a.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
+![](https://img.shields.io/badge/vscodium-%231a3f66.svg?&style=for-the-badge&logo=vscodium&logoColor=%23007ACC)
+![](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883)
 
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/fedora-%233c6eb4.svg?&style=for-the-badge&logo=fedora&logoColor=white)
-![](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/fedora-%23172232.svg?&style=for-the-badge&logo=fedora&logoColor=%2355A4E4)
+![](https://img.shields.io/badge/git-%2330110c.svg?&style=for-the-badge&logo=git&logoColor=%23F05032)
 ![](https://img.shields.io/badge/tensorflow-%23425066.svg?&style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
 <!-- ![](https://img.shields.io/badge/vs%20code-%232C2C32.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC) -->
 <!---
@@ -67,3 +72,4 @@ Eager to share knowledge, talk about tech, help others, and improve the World th
 ![](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white)
 - -->
 </div>
+
