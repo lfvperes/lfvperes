@@ -11,18 +11,18 @@
 
 > _"Imagination is more important than knowledge."_
 
-I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), through the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC).  
+I'm a Front-End Web Developer, on track to transition to Full-Stack. I also try to keep close to other fields of Software Engineering.
 
-I aim to be a Full-Stack Web Developer, and I'm coming from a background of Front-End.
+I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), in a combined curriculum from the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC). As such, I also like Hardware Engineering, Electronics Engineering and Low-level coding.
 
-I was an intern at SiDi/Samsung in Software Development for Speech Processing, working with Samsung Korea. I learned more about Machine Learning and Embedded Systems, using Python and C, respectively.
+I was an intern at SiDi/Samsung in Software Development for Speech Processing, where we worked with Samsung Korea on a global project. I learned more about Machine Learning and Embedded Systems, using Python and C, respectively.
 
-My main professional interests are Web Development and Software Engineering in general. In Academia I'm also interested in Hardware Engineering, Machine Learning, Quantum Computing, and Open Source. 
+My main professional interests are Web Development and Open Source Software. In Academia I'm also interested in Hardware Engineering, Machine Learning, and Quantum Computing. 
 
 ⚡ Fun facts: 
 - I draw **pixel art**!
 - I love puzzles, mystery and investigation stories
-- I built a few Twitter bots for fun and learned a lot in the process
+- I built a few Twitter/Bluesky bots for fun and learned a lot in the process
 
 Eager to share knowledge, talk about tech, help others, and improve the World through Science 🌎
 
