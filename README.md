@@ -11,7 +11,7 @@
 
 > _"Imagination is more important than knowledge."_
 
-I'm a Front-End Web Developer, on track to transition to Full-Stack. I also try to keep close to other fields of Software Engineering.
+I'm a self-taught Front-End Web Developer, on track to transition to Full-Stack. I also keep close to other fields of Software Engineering.
 
 I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), in a combined curriculum from the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC). As such, I also like Hardware Engineering, Electronics Engineering and Low-level coding.
 
