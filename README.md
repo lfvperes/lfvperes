@@ -11,11 +11,11 @@
 
 > _"Imagination is more important than knowledge."_
 
-I'm a self-taught Web Developer, on track to transition to Full-Stack. I also keep close to other fields of Software Engineering.
+I'm interested in becoming a Full-Stack Web Developer. I also keep close to other fields of Software Engineering due to my academic curriculum.
 
-I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP), in a combined curriculum from the [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en) (ICMC) and the [São Carlos School of Engineering](https://eesc.usp.br/en/) (EESC). As such, I also like Hardware Engineering, Electronics and Low-level coding.
+I'm a Computer Engineering Student at [University of São Paulo](https://www5.usp.br/#english) (USP). As such, I also like Hardware Engineering, Electronics and Low-level coding.
 
-I was an intern at SiDi/Samsung in Software Development for Speech Processing, where we worked with Samsung Korea on a global project. I learned more about Machine Learning and Embedded Systems, using Python and C, respectively.
+I was an intern at SiDi/Samsung in Software Development for Speech Processing, where we worked with Samsung Korea on a global project. I learned more about Machine Learning for audio and Embedded Systems for mobile devices, using Python and C, respectively.
 
 My main professional interests are Web Development and Open Source Software. In Academia I'm also interested in Hardware Engineering, Robotics, Machine Learning, Quantum Computing. 
 
