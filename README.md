@@ -3,7 +3,7 @@
 <div align="right">
 
 [![](https://img.shields.io/badge/portfolio-%23777.svg?&logo=googlesheets&logoColor=white)](https://lfvperes.github.io)
-[![](https://img.shields.io/badge/resume-%23777.svg?&logo=googlesheets&logoColor=white)](https://rxresu.me/lfvperes/webdev-jr)
+[![](https://img.shields.io/badge/resume-%23777.svg?&logo=googlesheets&logoColor=white)](https://rxresu.me/lfvperes/intern-swe-en)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/lfvperes)
 [![](https://img.shields.io/badge/gmail-%23FFFFFF.svg?&logo=gmail&logoColor=%23D14836)](mailto:luisfvperes@gmail.com)
 
